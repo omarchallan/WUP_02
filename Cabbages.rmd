@@ -76,6 +76,10 @@ t.test(VitC~Cult,data=veggy)
 ```
 
 
+The p-value is 0.00000003405. This clearly show that C39 and C52 are very different from each other. 
+
+
+
 
 # Discussion and Conclusion
 
